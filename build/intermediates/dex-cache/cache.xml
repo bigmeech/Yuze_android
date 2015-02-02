@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\YuseDev\Yuse\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\classes-586c9e1e1c75aa0f66890924681c94e6db4c32ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\JaneCockblocker\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\2.3.0\80a402b12accd66d4be7e5dbcb44e42baa0bdd7c\core-2.3.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="80a402b12accd66d4be7e5dbcb44e42baa0bdd7c">
+        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\core-2.3.0-10aba403d9828d3c41caad31705b535b335220d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\JaneCockblocker\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-68c132a90fb0e75479de9ca2bd843328b7c40075.jar" />
+    </item>
+    <item
+        jar="C:\Users\JaneCockblocker\.gradle\caches\modules-2\files-2.1\com.google.zxing\android-integration\2.3.0\5db9e9818724a2d8d392ae25c658bfe552a8cbc1\android-integration-2.3.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5db9e9818724a2d8d392ae25c658bfe552a8cbc1">
+        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\android-integration-2.3.0-5d23ca3a621f66201fd6f5fb72bca8696e064da8.jar" />
+    </item>
+
+</items>
