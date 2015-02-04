@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\YuseDev\Yuse\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jar="C:\YuseDev\Yuse\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\classes-586c9e1e1c75aa0f66890924681c94e6db4c32ee.jar" />
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\classes-cc753749ed5b8bb28ea169ab4862fa3889b5eb25.jar" />
+    </item>
+    <item
+        jar="C:\Users\JaneCockblocker\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-4f6a8fdbac71eea0ea0e475e24d431a986e1adda.jar" />
+    </item>
+    <item
+        jar="C:\YuseDev\Yuse\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-aef801a162800d8f3fc30d17c4ca18071eaa208c.jar" />
     </item>
     <item
         jar="C:\Users\JaneCockblocker\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\2.3.0\80a402b12accd66d4be7e5dbcb44e42baa0bdd7c\core-2.3.0.jar"
@@ -16,11 +30,18 @@
         <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\core-2.3.0-10aba403d9828d3c41caad31705b535b335220d2.jar" />
     </item>
     <item
-        jar="C:\Users\JaneCockblocker\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jar="C:\YuseDev\Yuse\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-68c132a90fb0e75479de9ca2bd843328b7c40075.jar" />
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\classes-e0cd8ae6cad3aeb8dcb3aff820728399a057f77a.jar" />
+    </item>
+    <item
+        jar="C:\YuseDev\Yuse\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\classes-ac5b0ad0aa953732e40b602b4d2ab6e68a3b2e70.jar" />
     </item>
     <item
         jar="C:\Users\JaneCockblocker\.gradle\caches\modules-2\files-2.1\com.google.zxing\android-integration\2.3.0\5db9e9818724a2d8d392ae25c658bfe552a8cbc1\android-integration-2.3.0.jar"
@@ -28,6 +49,13 @@
         revision="19.1.0"
         sha1="5db9e9818724a2d8d392ae25c658bfe552a8cbc1">
         <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\android-integration-2.3.0-5d23ca3a621f66201fd6f5fb72bca8696e064da8.jar" />
+    </item>
+    <item
+        jar="C:\YuseDev\Yuse\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\YuseDev\Yuse\app\build\intermediates\pre-dexed\debug\classes-cae5295e36ef6fa2a24c41a603734dcb0ffca531.jar" />
     </item>
 
 </items>

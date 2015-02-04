@@ -1,11 +1,11 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="android:Theme.Holo">
+    <style name="AppTheme" parent="android:Theme.Material">
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="splashScreenTheme" parent="android:Theme.DeviceDefault.Light.NoActionBar">
+    <style name="splashScreenTheme" parent="android:Theme.DeviceDefault.Dialog.NoActionBar">
         <item name="android:windowBackground">@drawable/startbackground</item>
     </style>
 
