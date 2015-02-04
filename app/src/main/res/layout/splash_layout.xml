@@ -7,9 +7,14 @@
 
 
     <ImageView
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:src="@drawable/yuze_logo"
         android:layout_gravity="center_vertical"
-        android:scaleType="center" />
+        android:scaleType="fitCenter"
+        android:contentDescription="@string/logo_desc"
+        android:minHeight="20dp"
+        android:minWidth="20dp"
+        android:maxHeight="20dp"
+        android:maxWidth="20dp" />
 </LinearLayout>

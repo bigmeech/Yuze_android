@@ -7,5 +7,6 @@
     <string name="facebook_btn_label">Sign In with Facebook</string>
     <string name="google_btn_label">Sign In with Google</string>
     <string name="logo_text">Yuze</string>
+    <string name="logo_desc">Logo</string>
 
 </resources>
