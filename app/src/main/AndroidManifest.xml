@@ -4,17 +4,21 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/yuze_logo_small"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme" >
         <activity
-            android:name="com.rack10.yuse.app.MainActivity"
-            android:label="@string/app_name" android:theme="@style/splashScreenTheme">
+            android:name=".activites.SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/splashScreenTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".activites.MainActivity"
+            android:theme="@style/AppTheme">
         </activity>
     </application>
 

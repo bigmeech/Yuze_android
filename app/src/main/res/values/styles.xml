@@ -1,12 +1,15 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="android:Theme.Holo">
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
         <!-- Customize your theme here. -->
+        <item name="android:displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="android:icon">@android:color/transparent</item>
     </style>
 
     <style name="splashScreenTheme" parent="android:Theme.DeviceDefault.Light.NoActionBar">
         <item name="android:windowBackground">@drawable/startbackground</item>
     </style>
 
+    <style name="actionBarStyle" parent="AppTheme"></style>
 </resources>

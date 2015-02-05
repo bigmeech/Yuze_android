@@ -8,5 +8,6 @@
     <string name="google_btn_label">Sign In with Google</string>
     <string name="logo_text">Yuze</string>
     <string name="logo_desc">Logo</string>
+    <string name="title_activity_splash">SplashActivity</string>
 
 </resources>
